@@ -1,4 +1,3 @@
-require("turbo.set")
-require("turbo.keybindings")
-
-
+require("turbo.options")
+require("turbo.remap")
+require("turbo.lazy_init")
